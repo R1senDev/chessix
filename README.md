@@ -1,2 +1,2 @@
 # chessix
-[WIP] The most flexible Chess Game framework.
+\[WIP\] The most flexible Chess Game framework.
